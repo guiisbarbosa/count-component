@@ -1,0 +1,17 @@
+button {
+    width: 100px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.agree {
+    background-color: green;
+    color: white;
+}
+
+.decline {
+    background-color: red;
+    color: white;
+}
